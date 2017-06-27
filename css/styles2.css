@@ -1,0 +1,82 @@
+body {
+  font-family: "Merriweather", sans-serif;
+  background-color: #B7E3CC;
+  color: #696047;
+}
+
+header ul {
+  text-align: center;
+}
+
+header ul li{
+  display: inline-block;
+  margin: 0 15px 15px 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #55251D;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #92AC86
+}
+
+h1 {
+  text-align: center;
+  font-style: italic;
+  color:#55251D;
+}
+
+h2 {
+  text-align: center;
+  font-size:1.4em;
+}
+
+h3 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.photo-activity {
+  width: 100%;
+}
+
+.activity {
+  text-align: left;
+  color: #5A1807;
+  font-style: italic;
+  border-bottom: 1px solid;
+  font-size: 1.4em;
+}
+
+p {
+  font-size: 1.1em;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+.container {
+  text-align: center;
+  line-height: 50px;
+}
+
+.pictures {
+  width: 51%;
+  border: 3px groove black;
+
+}
+
+.photo-accommodation {
+  width: 100%;
+}

@@ -43,3 +43,13 @@ h3 {
 .table-activity {
   text-align: center;
 }
+
+.pictures {
+  width: 33%;
+  height: 250px;
+}
+
+.photo-accommodation {
+  width: 22%;
+  height: 22%;
+}
