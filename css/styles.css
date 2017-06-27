@@ -1,8 +1,11 @@
-ul {
+body {
+  font-family: "Roboto Slab", sans-serif;
+}
+header ul {
   text-align: center;
 }
 
-li {
+header ul li {
   display:inline-block;
   margin: 0 15px 15px 15px;
 }
@@ -12,5 +15,31 @@ h1 {
 }
 
 footer {
+  text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  line-height: 14px;
+}
+
+.activity {
+  font-size: 1.4em;
+  font-style: italic;
+}
+
+.photo-activity {
+  width: 80%;
+}
+
+.table-activity {
   text-align: center;
 }
